@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dragazon/static/css/main.b1376436.chunk.css",
+    "main.js": "/dragazon/static/js/main.f13f4080.chunk.js",
+    "main.js.map": "/dragazon/static/js/main.f13f4080.chunk.js.map",
+    "runtime~main.js": "/dragazon/static/js/runtime~main.ae59200e.js",
+    "runtime~main.js.map": "/dragazon/static/js/runtime~main.ae59200e.js.map",
+    "static/css/2.fa43bc9e.chunk.css": "/dragazon/static/css/2.fa43bc9e.chunk.css",
+    "static/js/2.ec6e4eeb.chunk.js": "/dragazon/static/js/2.ec6e4eeb.chunk.js",
+    "static/js/2.ec6e4eeb.chunk.js.map": "/dragazon/static/js/2.ec6e4eeb.chunk.js.map",
+    "index.html": "/dragazon/index.html",
+    "precache-manifest.264baba576bc9fe267eb95eba463c8ff.js": "/dragazon/precache-manifest.264baba576bc9fe267eb95eba463c8ff.js",
+    "service-worker.js": "/dragazon/service-worker.js",
+    "static/css/2.fa43bc9e.chunk.css.map": "/dragazon/static/css/2.fa43bc9e.chunk.css.map",
+    "static/css/main.b1376436.chunk.css.map": "/dragazon/static/css/main.b1376436.chunk.css.map",
+    "static/media/dragazonlogoLight.png": "/dragazon/static/media/dragazonlogoLight.bccddc37.png",
+    "static/media/newitem.png": "/dragazon/static/media/newitem.4581bced.png",
+    "static/media/textheaderligred.png": "/dragazon/static/media/textheaderligred.4084d4d0.png"
+  }
+}
